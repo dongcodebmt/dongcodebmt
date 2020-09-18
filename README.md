@@ -17,4 +17,6 @@ Here are some ideas to get you started:
    
 [![Dong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongcodebmt&show_icons=true)](https://github.com/dongcodebmt)   
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongcodebmt&layout=compact)](https://github.com/dongcodebmt)
+-->
