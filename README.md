@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Dong</h1>
 
 <!--
 **dongcodebmt/dongcodebmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about about anything
 - 📫 How to reach me: <admin@dongdev.com>
 - ⚡ Fun fact: I love movies.  Except horror movies
-
--------
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
    
