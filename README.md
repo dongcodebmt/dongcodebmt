@@ -1,22 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Dong</h1>
 
-<!--
-**dongcodebmt/dongcodebmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 😄 Pronouns: ...
-- 🤔 I’m looking for help with ...-->
-- 🌱 I’m currently learning Full Stack Web development | App development
-- 💬 Ask me about about anything
-- 📫 How to reach me: <admin@dongdev.com>
-- ⚡ Fun fact: I love movies.  Except horror movies
-
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
    
-[![Dong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongcodebmt&show_icons=true)](https://github.com/dongcodebmt)   
+<!-- [![](https://count.getloli.com/get/@dongcodebmt?theme=gelbooru-h)](https://count.getloli.com)  --> 
+[![Dong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongcodebmt&show_icons=true&theme=radical)](https://github.com/dongcodebmt)  
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongcodebmt&layout=compact)](https://github.com/dongcodebmt)
--->
+#### Platform
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/Windows-11-292e33?style=flat-square&logo=windows&logoColor=ffffff)](#)
+
+#### Tools
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-292e33?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/IDE-IntelliJ-292e33?style=flat-square&logo=intellijidea&logoColor=ffffff)](#)   
+[![](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/-C%23-690081?style=flat-square&logo=csharp&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/-.NET-5027d5?style=flat-square&logo=dotnet&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio-292e33?style=flat-square&logo=visual-studio&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/-Java-f7f7f7?style=flat-square&logo=java&logoColor=0470b5)](#)
+[![](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)](#)
