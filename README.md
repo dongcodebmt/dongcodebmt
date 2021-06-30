@@ -11,11 +11,11 @@
 
 #### Tools
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-292e33?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](#)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio-292e33?style=flat-square&logo=visual-studio&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/IDE-IntelliJ-292e33?style=flat-square&logo=intellijidea&logoColor=ffffff)](#)   
 [![](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/-C%23-690081?style=flat-square&logo=csharp&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/-.NET-5027d5?style=flat-square&logo=dotnet&logoColor=ffffff)](#)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio-292e33?style=flat-square&logo=visual-studio&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/-Java-f7f7f7?style=flat-square&logo=java&logoColor=0470b5)](#)
 [![](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)](#)
