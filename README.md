@@ -5,10 +5,10 @@
 [![](https://count.getloli.com/get/@dongcodebmt?theme=gelbooru-h)](https://count.getloli.com)  
 [![Dong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongcodebmt&show_icons=true&theme=radical)](https://github.com/dongcodebmt) -->  
 
-#### Platform
+<!-- #### Platform -->
 <!-- https://simpleicons.org/ -->
-[![](https://img.shields.io/badge/Ubuntu-20.04-292e33?style=flat-square&logo=ubuntu&logoColor=ffffff)](#)
-[![](https://img.shields.io/badge/Windows-11-292e33?style=flat-square&logo=windows&logoColor=ffffff)](#)
+<!-- [![](https://img.shields.io/badge/Ubuntu-20.04-292e33?style=flat-square&logo=ubuntu&logoColor=ffffff)](#) -->
+<!-- [![](https://img.shields.io/badge/Windows-11-292e33?style=flat-square&logo=windows&logoColor=ffffff)](#) -->
 
 #### Tools
 [![](https://img.shields.io/badge/-Visual%20Studio%20Code-292e33?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](#)
